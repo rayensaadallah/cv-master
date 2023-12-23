@@ -19,6 +19,7 @@ import {
     starbucks,
     tesla,
     shopify,
+    forest,
     carrent,
     jobit,
     tripguide,
@@ -44,18 +45,22 @@ import {
     {
       title: "Web Developer",
       icon: web,
+      url: "https://drive.google.com/file/d/1T9xNxjCh5GX1X_qNCkc4apEBftAWwEqp/view?usp=drive_link",
     },
     {
       title: "Software Developer",
       icon: mobile,
+      url: "https://drive.google.com/file/d/13P7gi1f-4zgtkeer2FzUKsNpiJ6vqWLa/view?usp=drive_link",
     },
     {
       title: "Backend Developer",
       icon: backend,
+      url: "https://drive.google.com/file/d/19gAlZBHtaV62AGDxLdewpill50Q3kyhH/view?usp=drive_link",
     },
     {
       title: "DevOps Developer",
       icon: creator,
+      url: "https://drive.google.com/file/d/1lVcR0-e9lv4dyZvYajR6k0oMphUW3Zwr/view?usp=drive_link",
     },
   ];
   
@@ -126,6 +131,7 @@ import {
         "Designe and develop a Restful APIs for different modules in the project.",
         "Create a secure authentication interface by leveraging OAuth2 and JWT protocols, while also integrating an email verification mechanism to enhance user validation.",
         "Implement interceptors and guards to reinforce security and authorization management within the application",
+        "Automated CI/CD processes using Jenkins, ensured code quality with SonarQube,performed testing with Mockito and JUnit, managed deployments on Docker Hub,and set up monitoring with Prometheus and Grafana.",
       ],
     },
     {
@@ -136,10 +142,9 @@ import {
       date: "July 2022 - Augest 2022",
       points: [
         "Develop a system to track animals and notify the user of the animal's positions",
-        "Implemente computer vision technologies to identify animals.",
+        "Developed and deployed a real-time object detection system using the YOLO and OpenCV algorithm, allowing precise and efficient identification of objects in video streams.",
+        "develop a model for precise recognition of pets,using TensorFlow, enabling analysis continuous live video feeds and automatic alerts when pets enter restricted areas.",
         "Participating in code reviews and providing constructive feedback to other developers.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-
       ],
     },
     {
@@ -149,10 +154,8 @@ import {
       iconBg: "#383E56",
       date: "July 2021 ",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Ensure customer satisfaction by providing timely technical support and collaborative problem-solving.",
+        "Address hardware and software issues to enhance the overall customer experience.",
       ],
     },
   ];
@@ -224,7 +227,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
+      image: forest,
       source_code_link: "https://github.com/rayensaadallah/Forest-GestionRestaurant",
     },
     {

@@ -25,7 +25,7 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
-
+import forest from "./forest.png"
 import carrent from "./carrent.png";
 import jobit from "./airport.svg";
 import tripguide from "./tripguide.png";
@@ -33,6 +33,7 @@ import tripguide from "./tripguide.png";
 export {
   logo,
   backend,
+  forest,
   creator,
   mobile,
   web,
